@@ -1,4 +1,4 @@
-# Example - Trento Experiments
+# Example - Amsterdam Experiments
 
 This repository contains an example of a Helm Chart template and GitHub Actions, similar to what you will use during the experiment.
 
